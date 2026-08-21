@@ -1,6 +1,0 @@
-{
-  "name": "yourhot100 - Music Analytics & Plaque Forge",
-  "description": "Comprehensive music scrobble analytics, ZeroCharts weekly charts engine, historical milestones hall of fame, artist profile archives, Spotify/Last.fm sync, duplicate track combiner, and commemorative certification plaque forge.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
